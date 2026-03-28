@@ -1,0 +1,13 @@
+google-play-scraper
+pandas
+numpy
+scikit-learn
+requests
+matplotlib
+seaborn
+textblob
+nltk
+Pillow
+regex
+wordcloud
+emoji
